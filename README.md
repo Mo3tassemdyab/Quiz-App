@@ -1,4 +1,4 @@
 
 Quiz App
 
-toola: html / Css / Bootstrap / OOP/ Api
+tools: html / Css / Bootstrap / OOP/ Api
